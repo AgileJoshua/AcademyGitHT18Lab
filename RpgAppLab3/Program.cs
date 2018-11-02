@@ -2,6 +2,7 @@
 
 namespace RpgAppLab3
 {
+    //Här redigerade jag via github!!!
     class Program
     {
         static void Main(string[] args)
